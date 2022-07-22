@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1658358756 source:c:\users\einstein\documents\c projects\shared_read_object\main.cpp
+	"read_struct.h"
+
+1658448341 c:\users\einstein\documents\c projects\shared_read_object\read_struct.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1658446232 source:c:\users\einstein\documents\c projects\shared_read_object\read_struct.c
+	"read_struct.h"
+
+1658363410 source:c:\users\einstein\documents\c projects\shared_read_object\read_struct.cpp
+	"read_struct.h"
+
